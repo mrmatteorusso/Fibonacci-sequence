@@ -4,7 +4,7 @@ Each number in the sequence is the sum of the two numbers that precede it.
 The sequence goes: 0, 1, 1, 2, 3, 5, 8, and so on. 
 
 ## Goal
-Creating a sequence by prompting a number that dictates how many elements in the sequence
+Creating a sequence by prompting a number that dictates how many elements in the sequence.
 
 ## Steps
 By Entering an integer  number (n) between 0 and infinite, the code will produce an array. 
