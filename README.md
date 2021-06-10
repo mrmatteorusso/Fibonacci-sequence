@@ -12,3 +12,6 @@ The numbers of items in the the array will be equal to the integer number entere
 n = 4 <br>
 array = [0, 1, 1, 2]
 
+## Example
+If on prompt you enter 3, the script will return [0, 1, 1]
+
