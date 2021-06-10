@@ -8,4 +8,4 @@ for (i = 0; i <= n; i++) { // FIXED HERE
         array.push(fib);
     }
 }
-console.log(array);
+alert(array);
